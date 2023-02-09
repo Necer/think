@@ -1,2 +1,5 @@
-# think
- some sdk ,some knowledge,three times a day
+# think :apple:
+as water goes by, let's **CTRL + C** & **CTRL + V**
+
+
+
